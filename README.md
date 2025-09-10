@@ -16,3 +16,9 @@ It’s a beginner-friendly project for learning how HTML forms interact with a N
 ---
 
 ## 📂 Project Structure
+form-server/
+│-- server.js # Main server file
+│-- package.json # Node.js dependencies
+│-- views/
+│ ├── index.ejs # Form page
+│ └── result.ejs # Result page
